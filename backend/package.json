@@ -1,12 +1,8 @@
 {
   "name": "asap-project",
   "version": "1.0.0",
- ping
-  
-
   "description": "backend for the Silly Snack Tracker",
-main
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon server.js"
